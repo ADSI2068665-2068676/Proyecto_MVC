@@ -16,11 +16,10 @@
 </head>
 <body>
     <p>
-        @Html.ActionLink("Agregar Artículo", "Create")
-
-        @Html.ActionLink("Buscar Artículo", "Index", "Buscar")
+        @Html.ActionLink("Agregar Artículo", "Create")       
     </p>
-    <table class="table table-striped table-dark">
+    @Html.ActionLink("Buscar Artículo", "Index", "Buscar")
+    <table class="table table-striped">
             <tr>
                 <th>
                     @Html.DisplayNameFor(model => model.Codigo)
