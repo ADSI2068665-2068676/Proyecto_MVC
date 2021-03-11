@@ -1,0 +1,50 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <meta name="viewport" content="width=device-width" />
+    <title>ModificacionArticulo</title>
+</head>
+<body>
+    @using (Html.BeginForm("ModificacionArticulo", "Buscar", FormMethod.Post))
+    {
+        <div class="container">
+            <div class="form-horizontal">
+                <h4>Codigo del Articulo.</h4>
+                <hr />
+                <div class="form-group">
+                    <div class="col-md-10">
+                        @Html.Display("Codigo")
+                        @Html.Hidden("Codigo")
+                    </div>
+                </div>
+            </div>
+            <div class="form-horizontal">
+                <h4>Descripcion.</h4>
+                <hr />
+                <div class="form-group">
+                    <div class="col-md-10">
+                        @Html.TextBox("Descripcion")
+                    </div>
+                </div>
+            </div>
+            <div class="form-horizontal">
+                <h4>Precio.</h4>
+                <hr />
+                <div class="form-group">
+                    <div class="col-md-10">
+                        @Html.TextBox("Precio")
+                    </div>
+                </div>
+                <input type="submit" value="Confirmar" />
+            </div>
+        </div>
+    } 
+</body>
+</html>
