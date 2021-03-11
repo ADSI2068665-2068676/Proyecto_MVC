@@ -1,4 +1,4 @@
-﻿@*@model Prueba2.Models.Articulo*@ 
+﻿@model Prueba2.Models.Articulo 
 
 @{
     Layout = null;
@@ -23,7 +23,8 @@
                     <div class="col-md-10">
                         @Html.Display("Codigo")
                         @*@Html.DisplayFor(model => model.Codigo)*@
-                        @Html.Hidden("Codigo")
+                        @*@Html.Hidden("Codigo")*@
+                        @Html.HiddenFor(model => model.Codigo)
                     </div>
                 </div>
             </div>
