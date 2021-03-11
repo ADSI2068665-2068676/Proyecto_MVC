@@ -50,3 +50,112 @@ C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\DIA\Prueba2\Prueba2\
 C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\DIA\Prueba2\Prueba2\obj\Debug\Prueba2.csprojResolveAssemblyReference.cache
 C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\DIA\Prueba2\Prueba2\obj\Debug\Prueba2.dll
 C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\DIA\Prueba2\Prueba2\obj\Debug\Prueba2.pdb
+<<<<<<< HEAD
+C:\Users\Tigre\source\repos\MVC\SEMANA 9\REPO_GIT_PRUEBAS3\Proyecto_MVC\Prueba2\bin\ApplicationInsights.config
+C:\Users\Tigre\source\repos\MVC\SEMANA 9\REPO_GIT_PRUEBAS3\Proyecto_MVC\Prueba2\bin\roslyn\csc.exe
+C:\Users\Tigre\source\repos\MVC\SEMANA 9\REPO_GIT_PRUEBAS3\Proyecto_MVC\Prueba2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tigre\source\repos\MVC\SEMANA 9\REPO_GIT_PRUEBAS3\Proyecto_MVC\Prueba2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tigre\source\repos\MVC\SEMANA 9\REPO_GIT_PRUEBAS3\Proyecto_MVC\Prueba2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tigre\source\repos\MVC\SEMANA 9\REPO_GIT_PRUEBAS3\Proyecto_MVC\Prueba2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tigre\source\repos\MVC\SEMANA 9\REPO_GIT_PRUEBAS3\Proyecto_MVC\Prueba2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tigre\source\repos\MVC\SEMANA 9\REPO_GIT_PRUEBAS3\Proyecto_MVC\Prueba2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tigre\source\repos\MVC\SEMANA 9\REPO_GIT_PRUEBAS3\Proyecto_MVC\Prueba2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tigre\source\repos\MVC\SEMANA 9\REPO_GIT_PRUEBAS3\Proyecto_MVC\Prueba2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tigre\source\repos\MVC\SEMANA 9\REPO_GIT_PRUEBAS3\Proyecto_MVC\Prueba2\bin\roslyn\vbc.exe
+C:\Users\Tigre\source\repos\MVC\SEMANA 9\REPO_GIT_PRUEBAS3\Proyecto_MVC\Prueba2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tigre\source\repos\MVC\SEMANA 9\REPO_GIT_PRUEBAS3\Proyecto_MVC\Prueba2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tigre\source\repos\MVC\SEMANA 9\REPO_GIT_PRUEBAS3\Proyecto_MVC\Prueba2\bin\Prueba2.dll.config
+C:\Users\Tigre\source\repos\MVC\SEMANA 9\REPO_GIT_PRUEBAS3\Proyecto_MVC\Prueba2\bin\Prueba2.dll
+C:\Users\Tigre\source\repos\MVC\SEMANA 9\REPO_GIT_PRUEBAS3\Proyecto_MVC\Prueba2\bin\Prueba2.pdb
+C:\Users\Tigre\source\repos\MVC\SEMANA 9\REPO_GIT_PRUEBAS3\Proyecto_MVC\Prueba2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Tigre\source\repos\MVC\SEMANA 9\REPO_GIT_PRUEBAS3\Proyecto_MVC\Prueba2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Tigre\source\repos\MVC\SEMANA 9\REPO_GIT_PRUEBAS3\Proyecto_MVC\Prueba2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Tigre\source\repos\MVC\SEMANA 9\REPO_GIT_PRUEBAS3\Proyecto_MVC\Prueba2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Tigre\source\repos\MVC\SEMANA 9\REPO_GIT_PRUEBAS3\Proyecto_MVC\Prueba2\bin\Microsoft.AI.Web.dll
+C:\Users\Tigre\source\repos\MVC\SEMANA 9\REPO_GIT_PRUEBAS3\Proyecto_MVC\Prueba2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Tigre\source\repos\MVC\SEMANA 9\REPO_GIT_PRUEBAS3\Proyecto_MVC\Prueba2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Tigre\source\repos\MVC\SEMANA 9\REPO_GIT_PRUEBAS3\Proyecto_MVC\Prueba2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tigre\source\repos\MVC\SEMANA 9\REPO_GIT_PRUEBAS3\Proyecto_MVC\Prueba2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tigre\source\repos\MVC\SEMANA 9\REPO_GIT_PRUEBAS3\Proyecto_MVC\Prueba2\bin\System.Web.Helpers.dll
+C:\Users\Tigre\source\repos\MVC\SEMANA 9\REPO_GIT_PRUEBAS3\Proyecto_MVC\Prueba2\bin\System.Web.Mvc.dll
+C:\Users\Tigre\source\repos\MVC\SEMANA 9\REPO_GIT_PRUEBAS3\Proyecto_MVC\Prueba2\bin\System.Web.Razor.dll
+C:\Users\Tigre\source\repos\MVC\SEMANA 9\REPO_GIT_PRUEBAS3\Proyecto_MVC\Prueba2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tigre\source\repos\MVC\SEMANA 9\REPO_GIT_PRUEBAS3\Proyecto_MVC\Prueba2\bin\System.Web.WebPages.dll
+C:\Users\Tigre\source\repos\MVC\SEMANA 9\REPO_GIT_PRUEBAS3\Proyecto_MVC\Prueba2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tigre\source\repos\MVC\SEMANA 9\REPO_GIT_PRUEBAS3\Proyecto_MVC\Prueba2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Tigre\source\repos\MVC\SEMANA 9\REPO_GIT_PRUEBAS3\Proyecto_MVC\Prueba2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Tigre\source\repos\MVC\SEMANA 9\REPO_GIT_PRUEBAS3\Proyecto_MVC\Prueba2\bin\Microsoft.AI.Web.xml
+C:\Users\Tigre\source\repos\MVC\SEMANA 9\REPO_GIT_PRUEBAS3\Proyecto_MVC\Prueba2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Tigre\source\repos\MVC\SEMANA 9\REPO_GIT_PRUEBAS3\Proyecto_MVC\Prueba2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Tigre\source\repos\MVC\SEMANA 9\REPO_GIT_PRUEBAS3\Proyecto_MVC\Prueba2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tigre\source\repos\MVC\SEMANA 9\REPO_GIT_PRUEBAS3\Proyecto_MVC\Prueba2\bin\System.Web.Helpers.xml
+C:\Users\Tigre\source\repos\MVC\SEMANA 9\REPO_GIT_PRUEBAS3\Proyecto_MVC\Prueba2\bin\System.Web.Mvc.xml
+C:\Users\Tigre\source\repos\MVC\SEMANA 9\REPO_GIT_PRUEBAS3\Proyecto_MVC\Prueba2\bin\System.Web.Razor.xml
+C:\Users\Tigre\source\repos\MVC\SEMANA 9\REPO_GIT_PRUEBAS3\Proyecto_MVC\Prueba2\bin\System.Web.WebPages.xml
+C:\Users\Tigre\source\repos\MVC\SEMANA 9\REPO_GIT_PRUEBAS3\Proyecto_MVC\Prueba2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tigre\source\repos\MVC\SEMANA 9\REPO_GIT_PRUEBAS3\Proyecto_MVC\Prueba2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tigre\source\repos\MVC\SEMANA 9\REPO_GIT_PRUEBAS3\Proyecto_MVC\Prueba2\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Tigre\source\repos\MVC\SEMANA 9\REPO_GIT_PRUEBAS3\Proyecto_MVC\Prueba2\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Tigre\source\repos\MVC\SEMANA 9\REPO_GIT_PRUEBAS3\Proyecto_MVC\Prueba2\bin\es\System.Web.Razor.resources.dll
+C:\Users\Tigre\source\repos\MVC\SEMANA 9\REPO_GIT_PRUEBAS3\Proyecto_MVC\Prueba2\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Tigre\source\repos\MVC\SEMANA 9\REPO_GIT_PRUEBAS3\Proyecto_MVC\Prueba2\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Tigre\source\repos\MVC\SEMANA 9\REPO_GIT_PRUEBAS3\Proyecto_MVC\Prueba2\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Tigre\source\repos\MVC\SEMANA 9\REPO_GIT_PRUEBAS3\Proyecto_MVC\Prueba2\obj\Debug\Prueba2.csprojAssemblyReference.cache
+C:\Users\Tigre\source\repos\MVC\SEMANA 9\REPO_GIT_PRUEBAS3\Proyecto_MVC\Prueba2\obj\Debug\Prueba2.csproj.CoreCompileInputs.cache
+C:\Users\Tigre\source\repos\MVC\SEMANA 9\REPO_GIT_PRUEBAS3\Proyecto_MVC\Prueba2\obj\Debug\Prueba2.csproj.CopyComplete
+C:\Users\Tigre\source\repos\MVC\SEMANA 9\REPO_GIT_PRUEBAS3\Proyecto_MVC\Prueba2\obj\Debug\Prueba2.dll
+C:\Users\Tigre\source\repos\MVC\SEMANA 9\REPO_GIT_PRUEBAS3\Proyecto_MVC\Prueba2\obj\Debug\Prueba2.pdb
+=======
+C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\pruebas\Proyecto_MVC\Prueba2\bin\ApplicationInsights.config
+C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\pruebas\Proyecto_MVC\Prueba2\bin\roslyn\csc.exe
+C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\pruebas\Proyecto_MVC\Prueba2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\pruebas\Proyecto_MVC\Prueba2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\pruebas\Proyecto_MVC\Prueba2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\pruebas\Proyecto_MVC\Prueba2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\pruebas\Proyecto_MVC\Prueba2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\pruebas\Proyecto_MVC\Prueba2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\pruebas\Proyecto_MVC\Prueba2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\pruebas\Proyecto_MVC\Prueba2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\pruebas\Proyecto_MVC\Prueba2\bin\roslyn\vbc.exe
+C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\pruebas\Proyecto_MVC\Prueba2\bin\roslyn\VBCSCompiler.exe
+C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\pruebas\Proyecto_MVC\Prueba2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\pruebas\Proyecto_MVC\Prueba2\bin\Prueba2.dll.config
+C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\pruebas\Proyecto_MVC\Prueba2\bin\Prueba2.dll
+C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\pruebas\Proyecto_MVC\Prueba2\bin\Prueba2.pdb
+C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\pruebas\Proyecto_MVC\Prueba2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\pruebas\Proyecto_MVC\Prueba2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\pruebas\Proyecto_MVC\Prueba2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\pruebas\Proyecto_MVC\Prueba2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\pruebas\Proyecto_MVC\Prueba2\bin\Microsoft.AI.Web.dll
+C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\pruebas\Proyecto_MVC\Prueba2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\pruebas\Proyecto_MVC\Prueba2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\pruebas\Proyecto_MVC\Prueba2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\pruebas\Proyecto_MVC\Prueba2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\pruebas\Proyecto_MVC\Prueba2\bin\System.Web.Helpers.dll
+C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\pruebas\Proyecto_MVC\Prueba2\bin\System.Web.Mvc.dll
+C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\pruebas\Proyecto_MVC\Prueba2\bin\System.Web.Razor.dll
+C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\pruebas\Proyecto_MVC\Prueba2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\pruebas\Proyecto_MVC\Prueba2\bin\System.Web.WebPages.dll
+C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\pruebas\Proyecto_MVC\Prueba2\bin\System.Web.WebPages.Razor.dll
+C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\pruebas\Proyecto_MVC\Prueba2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\pruebas\Proyecto_MVC\Prueba2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\pruebas\Proyecto_MVC\Prueba2\bin\Microsoft.AI.Web.xml
+C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\pruebas\Proyecto_MVC\Prueba2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\pruebas\Proyecto_MVC\Prueba2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\pruebas\Proyecto_MVC\Prueba2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\pruebas\Proyecto_MVC\Prueba2\bin\System.Web.Helpers.xml
+C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\pruebas\Proyecto_MVC\Prueba2\bin\System.Web.Mvc.xml
+C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\pruebas\Proyecto_MVC\Prueba2\bin\System.Web.Razor.xml
+C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\pruebas\Proyecto_MVC\Prueba2\bin\System.Web.WebPages.xml
+C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\pruebas\Proyecto_MVC\Prueba2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\pruebas\Proyecto_MVC\Prueba2\bin\System.Web.WebPages.Razor.xml
+C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\pruebas\Proyecto_MVC\Prueba2\bin\es\System.Web.Helpers.resources.dll
+C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\pruebas\Proyecto_MVC\Prueba2\bin\es\System.Web.Mvc.resources.dll
+C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\pruebas\Proyecto_MVC\Prueba2\bin\es\System.Web.Razor.resources.dll
+C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\pruebas\Proyecto_MVC\Prueba2\bin\es\System.Web.WebPages.resources.dll
+C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\pruebas\Proyecto_MVC\Prueba2\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\pruebas\Proyecto_MVC\Prueba2\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\pruebas\Proyecto_MVC\Prueba2\obj\Debug\Prueba2.csprojResolveAssemblyReference.cache
+C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\pruebas\Proyecto_MVC\Prueba2\obj\Debug\Prueba2.dll
+C:\Users\PORTATIL\Documents\Visual Studio 2015\Projects\MVC\pruebas\Proyecto_MVC\Prueba2\obj\Debug\Prueba2.pdb
+>>>>>>> c5ccb86c5d65fb718bd70d895e443860247068f2

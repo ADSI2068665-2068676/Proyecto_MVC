@@ -15,12 +15,14 @@
 
 </head>
 <body>
+    <h1>Primer cambio Mauro Cano</h1>
     <p>
-        @Html.ActionLink("Agregar Artículo", "Create")
-
-        @Html.ActionLink("Buscar Artículo", "Index", "Buscar")
+        @Html.ActionLink("Agregar Artículo", "Create")       
     </p>
-    <table class="table table-striped table-dark">
+    <p>
+    @Html.ActionLink("Buscar Artículo", "Index", "Buscar")
+    </p>
+    <table class="table table-striped">
             <tr>
                 <th>
                     @Html.DisplayNameFor(model => model.Codigo)
