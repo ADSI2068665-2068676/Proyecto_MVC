@@ -1,4 +1,5 @@
-﻿
+﻿@*@model Prueba2.Models.Articulo*@ 
+
 @{
     Layout = null;
 }
@@ -21,6 +22,7 @@
                 <div class="form-group">
                     <div class="col-md-10">
                         @Html.Display("Codigo")
+                        @*@Html.DisplayFor(model => model.Codigo)*@
                         @Html.Hidden("Codigo")
                     </div>
                 </div>
@@ -45,6 +47,6 @@
                 <input type="submit" value="Confirmar" />
             </div>
         </div>
-    } 
+    }
 </body>
 </html>
