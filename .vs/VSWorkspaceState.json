@@ -1,10 +1,15 @@
 {
   "ExpandedNodes": [
+<<<<<<< HEAD
     "",
     "\\Prueba2",
     "\\Prueba2\\Views",
     "\\Prueba2\\Views\\Buscar"
   ],
   "SelectedNode": "\\Prueba2\\Views\\Buscar\\Index.cshtml",
+=======
+    ""
+  ],
+>>>>>>> bb71c724e1e6db605baf1fdc16d6867b431c8f88
   "PreviewInSolutionExplorer": false
 }
